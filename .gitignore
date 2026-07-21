@@ -1,0 +1,37 @@
+# Python caches and local environments
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+venv/
+
+# LaTeX and PDF build intermediates
+tmp/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# Editor and OS state
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local secrets and overrides
+.env
+.env.*
+*.local
+
+# Local annotator handoff bundles with copied image files
+output/human_annotation_package/
+output/human_audit_adjudication_package/
+output/human_audit_final_package/
+output/snas_submission_ready/

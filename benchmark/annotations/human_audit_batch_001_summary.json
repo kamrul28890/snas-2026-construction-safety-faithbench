@@ -1,0 +1,68 @@
+{
+  "batch_id": "human_audit_batch_001",
+  "row_count": 120,
+  "batch_size_requested": 120,
+  "per_rule_cap": 30,
+  "source_scores": "D:\\My Projects\\society-of-north-american-scholar-paper\\results\\tables\\scaleup_florence_grounding_per_example_scores.csv",
+  "source_manifest": "D:\\My Projects\\society-of-north-american-scholar-paper\\benchmark\\splits\\scaleup_candidate_manifest.csv",
+  "source_annotations": "D:\\My Projects\\society-of-north-american-scholar-paper\\benchmark\\annotations\\scaleup_model_assisted_annotations.jsonl",
+  "rule_counts": {
+    "fall_harness": 30,
+    "guardrail_edge": 30,
+    "ppe_hard_hat": 30,
+    "struck_by_equipment": 30
+  },
+  "priority_reason_counts": {
+    "bootstrap_nonambiguous": 82,
+    "florence_disagrees_with_bootstrap": 118,
+    "low_evidence_iou": 59,
+    "missing_predicted_evidence": 1,
+    "rule_applies": 83
+  },
+  "florence_bootstrap_disagreement_count": 118,
+  "provenance": "Prioritized for independent audit from scale-up Florence score diagnostics. Two AI-generated annotator passes are ingested; A/B disagreements are resolved by the returned adjudication package. Use the final-label layer with this provenance, not as unqualified human ground truth.",
+  "annotation_passes": {
+    "status": "ingested",
+    "ground_truth_status": "not_human_ground_truth",
+    "provenance": "Two independent AI-generated passes from the returned final_package. Both are useful for pipeline/adjudication analysis but require human/domain adjudication before ground-truth claims.",
+    "source_package": "D:\\My Projects\\human-audit-batch-001-annotation\\final_package",
+    "annotator_1_id": "ai_annotator_A_compliance_officer",
+    "annotator_2_id": "ai_annotator_B_site_superintendent",
+    "annotator_1_completion_count": 120,
+    "annotator_2_completion_count": 120,
+    "answer_agreement_count": 108,
+    "answer_disagreement_count": 12,
+    "answer_agreement_rate": 0.9,
+    "disagreement_rule_counts": {
+      "fall_harness": 1,
+      "guardrail_edge": 6,
+      "ppe_hard_hat": 1,
+      "struck_by_equipment": 4
+    }
+  },
+  "adjudication": {
+    "status": "ingested",
+    "source_package": "D:\\My Projects\\human-audit-batch-001-annotation\\adjudication\\human_audit_batch_001_adjudication_package",
+    "adjudication_form_sha256": "996ee25fbfb9fcdf0aa67a10005d1a91cb911ba77e50b2ec01bf060144f9e0af",
+    "disagreement_rows_adjudicated": 12,
+    "adjudicated_answer_counts": {
+      "compliant": 7,
+      "uncertain": 2,
+      "violation": 3
+    },
+    "adjudicated_ambiguous_counts": {
+      "no": 4,
+      "yes": 8
+    }
+  },
+  "final_label_layer": {
+    "status": "available",
+    "row_count": 120,
+    "final_label_completion_count": 120,
+    "final_label_source_counts": {
+      "dual_annotator_agreement": 108,
+      "returned_adjudication": 12
+    },
+    "ground_truth_status": "adjudicated_audit_labels_with_ai_pass_provenance"
+  }
+}
