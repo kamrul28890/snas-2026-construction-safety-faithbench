@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-07-22T18:17:18.314137+00:00",
+  "created_utc": "2026-07-22T18:30:41.234129+00:00",
   "paper_title": "ConstructionSafety-FaithBench: Auditing Visual-Evidence Faithfulness in Construction-Safety Vision-Language Models",
   "public_repo_url": "https://github.com/kamrul28890/snas-2026-construction-safety-faithbench",
   "file_count": 131,
@@ -256,8 +256,8 @@
     },
     {
       "path": "experiments/make_paper_figures.py",
-      "bytes": 11514,
-      "sha256": "6c6ee68aeabc639730980049dce9f8272dd377c7ef8d9516c90601ef7c7d73d8"
+      "bytes": 12319,
+      "sha256": "f3fc92add0a5238509c2c151fc138546b9925c66b3fd668aa29aa73b9778b48a"
     },
     {
       "path": "experiments/run_florence_grounding_outputs.py",
@@ -337,17 +337,17 @@
     {
       "path": "paper/snas/figures/audit_result_dashboard.pdf",
       "bytes": 34812,
-      "sha256": "564e21be301c6a1c8b8acc86f8662daf40860e285e0d7df0da1899236dc448ad"
+      "sha256": "87ef17a42bc6644819659dcd7a2f1b69c4adfc421c74f5e1400784f7f5aa3214"
     },
     {
       "path": "paper/snas/figures/intervention_effects_chart.pdf",
       "bytes": 36602,
-      "sha256": "651c9573f3bcc885c195f3aca5d343bf696656dfb420a2c568d5c96ab5d99d6c"
+      "sha256": "e837f00c196f2b82180e3bad2637b5b46e1e6f8c3ff8be14db720ca665756fb3"
     },
     {
       "path": "paper/snas/figures/pipeline_architecture.pdf",
-      "bytes": 40071,
-      "sha256": "08a742262c3bae1a5bb96bfb266dc54d25143a2786ce58c58dba0e442486681e"
+      "bytes": 55271,
+      "sha256": "283908340e0a6164d145e41e9a02ea68764ecb349139e2434b659e0450e36c9d"
     },
     {
       "path": "paper/snas/README.md",
@@ -647,12 +647,12 @@
     {
       "path": "submission/SNAS_2026_FaithBench_abstract_blind.pdf",
       "bytes": 74125,
-      "sha256": "4c20412dd7cc13b94fa23bdf312e4432200905f1a96165ff383325e6f2ba642f"
+      "sha256": "88a38d705a72f43346563f57c71d4aab79983cd232214085250454fbb571aa89"
     },
     {
       "path": "submission/SNAS_2026_FaithBench_short_paper_blind.pdf",
-      "bytes": 221567,
-      "sha256": "e274a9bb21e9d00a3b275275db7793c018ef0fc952efa7ce7249497b13128592"
+      "bytes": 235959,
+      "sha256": "a34daf7a1e7d5238e4f36465946114a249f11a3367b92d05326f6fc24983488d"
     },
     {
       "path": "tests/test_faithbench_specs.py",
