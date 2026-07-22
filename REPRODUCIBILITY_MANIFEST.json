@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-07-22T17:59:09.771634+00:00",
+  "created_utc": "2026-07-22T18:09:10.285238+00:00",
   "paper_title": "ConstructionSafety-FaithBench: Auditing Visual-Evidence Faithfulness in Construction-Safety Vision-Language Models",
   "public_repo_url": "https://github.com/kamrul28890/snas-2026-construction-safety-faithbench",
   "file_count": 131,
@@ -11,13 +11,13 @@
     },
     {
       "path": "benchmark/annotations/annotation_protocol.md",
-      "bytes": 2891,
-      "sha256": "440a55845dc7156be157dbac04fa5a0aab53cfb5f24f7251c50afe2a0b15ad6f"
+      "bytes": 2900,
+      "sha256": "7a9fdfbbc3e9e39f63fce05ece99e8e9ccf97c3c09a3412783bafeb66b6f9de8"
     },
     {
       "path": "benchmark/annotations/human_annotation_prompt.md",
-      "bytes": 5771,
-      "sha256": "4e683f3d0d300b2d131122ad60ee64d471873f3499c9c8f3af1df7607cfcd51e"
+      "bytes": 5785,
+      "sha256": "254a9f03104ff149d4fbdbb470bbb17d8fc37d35ebcf4097c52575a7589359c7"
     },
     {
       "path": "benchmark/annotations/human_audit_batch_001.csv",
@@ -76,13 +76,13 @@
     },
     {
       "path": "benchmark/annotations/human_audit_protocol.md",
-      "bytes": 1092,
-      "sha256": "c6658c767a1762efafa837c24baa9730ef6910724fe7271b795c1f5808442a3b"
+      "bytes": 1085,
+      "sha256": "866427083277394eaeecd763c91c68b5ef60119844696a9f0e69334fd9188606"
     },
     {
       "path": "benchmark/annotations/model_assisted_methodology.md",
-      "bytes": 1914,
-      "sha256": "c911bea43cc2d124f7b1c62593aecd21f10442c87565693ba931598601e3895b"
+      "bytes": 1930,
+      "sha256": "4c0cffdf56fb7d253ed601f4c7a2f3c8b73f31fa6ebb58279ce838bd49dbaed3"
     },
     {
       "path": "benchmark/annotations/pilot_annotation_template.csv",
@@ -236,8 +236,8 @@
     },
     {
       "path": "experiments/build_scaleup_annotations.py",
-      "bytes": 5449,
-      "sha256": "3daf541ecad9f9290da52e1f67b5237bbac568a192262a6fdb8ef3d059d9a41b"
+      "bytes": 5436,
+      "sha256": "5cfc768038d7e550764e2d69350e53c4410a666bbf212b637318e395aaf8a3a0"
     },
     {
       "path": "experiments/build_scaleup_candidate_manifest.py",
@@ -256,8 +256,8 @@
     },
     {
       "path": "experiments/make_paper_figures.py",
-      "bytes": 11515,
-      "sha256": "7b57b4177519c485aa896eee2a064eaafe6277a8188ee94973fa17eb45cc8ca0"
+      "bytes": 11514,
+      "sha256": "6c6ee68aeabc639730980049dce9f8272dd377c7ef8d9516c90601ef7c7d73d8"
     },
     {
       "path": "experiments/run_florence_grounding_outputs.py",
@@ -336,18 +336,18 @@
     },
     {
       "path": "paper/snas/figures/audit_result_dashboard.pdf",
-      "bytes": 34817,
-      "sha256": "5ef63b712312cb40d5c50ec4fca50075dd9d6d58c8ed3c9c5d5f0393e55f1b9d"
+      "bytes": 34812,
+      "sha256": "564e21be301c6a1c8b8acc86f8662daf40860e285e0d7df0da1899236dc448ad"
     },
     {
       "path": "paper/snas/figures/intervention_effects_chart.pdf",
       "bytes": 36602,
-      "sha256": "7a760fcf233207e9ed9e4362e4ed54cf50645525f895ee44bd4e8cc6bbaabe9e"
+      "sha256": "651c9573f3bcc885c195f3aca5d343bf696656dfb420a2c568d5c96ab5d99d6c"
     },
     {
       "path": "paper/snas/figures/pipeline_architecture.pdf",
       "bytes": 40071,
-      "sha256": "80ecf6fc3158ce132b78832f49eeb7399f66b75697d16555ea8d995e7a339096"
+      "sha256": "08a742262c3bae1a5bb96bfb266dc54d25143a2786ce58c58dba0e442486681e"
     },
     {
       "path": "paper/snas/README.md",
@@ -356,28 +356,28 @@
     },
     {
       "path": "paper/snas/SNAS_2026_FaithBench_abstract_blind.tex",
-      "bytes": 2487,
-      "sha256": "cbe22fe50ecdd7bd2d6e8b1d2dbf18f5c7a0596387023dbfb3e660586f277854"
+      "bytes": 2321,
+      "sha256": "2ef880ccd03b7f366a45b29ab26cfc82350036ef40335bc1a17e5af9e62e2824"
     },
     {
       "path": "paper/snas/SNAS_2026_FaithBench_short_paper.tex",
-      "bytes": 16127,
-      "sha256": "613ffb5fc05795a62dbde03d9874b3e545c16c23a4f170a1b0fa4b6e2d0d8fa0"
+      "bytes": 17908,
+      "sha256": "fd83aac91911090f9f387812a938e1c247cb3403f3b9445d37e92bb0fd018a06"
     },
     {
       "path": "paper/snas/SUBMISSION_RISKS_AND_FIXES.md",
-      "bytes": 1932,
-      "sha256": "3bae606a91d9c0e14e891c2580f46ee530f0ae0debed38daa4b832af9a748f8e"
+      "bytes": 1898,
+      "sha256": "3e10ea773684cc56c34fea5cb359ca235aa97cfc6e13ed49463d5315fb85a868"
     },
     {
       "path": "paper/snas/SUBMISSION_TEXTS.md",
-      "bytes": 4077,
-      "sha256": "4a46414129198fa35a933c18dead02585e3c7aaf30ac441342d112065f8fbed1"
+      "bytes": 3675,
+      "sha256": "e8844e33a6775b30f7c622684497a937ac583481772d9195eceb0ccc2e37e8d1"
     },
     {
       "path": "README.md",
-      "bytes": 2209,
-      "sha256": "5855a649edfde6399b45f1c7e591784952301b697b914643f1901e17b01f7e02"
+      "bytes": 2183,
+      "sha256": "e012cc9d357fc40336cde43bff1f9f2507095be6105f200330799ce841345f85"
     },
     {
       "path": "requirements.txt",
@@ -446,8 +446,8 @@
     },
     {
       "path": "results/frozen_model_outputs/README.md",
-      "bytes": 1037,
-      "sha256": "1c6be28954d92e61d479869bec24dc79c5fdb118e4180e0b4cd87c78598b434f"
+      "bytes": 1046,
+      "sha256": "98e93442d5edd8a6f125aa50b01da2ef0ee5356502f6499b2c6e12b09965fd21"
     },
     {
       "path": "results/frozen_model_outputs/scaleup_annotation_bootstrap.csv",
@@ -591,8 +591,8 @@
     },
     {
       "path": "src/faithbench/annotation.py",
-      "bytes": 9345,
-      "sha256": "a8b79aec2dd77899ef85899945e91c74e6cd9d833369527c1ec1590e30dfaab9"
+      "bytes": 9340,
+      "sha256": "bda61e55505b1d3bbbb594b8bb377938126f25d26d5abf12217f6ed7c7a2f698"
     },
     {
       "path": "src/faithbench/geometry.py",
@@ -646,13 +646,13 @@
     },
     {
       "path": "submission/SNAS_2026_FaithBench_abstract_blind.pdf",
-      "bytes": 74870,
-      "sha256": "217e929da684dc32a2b77a7222edbd9f4b2c7fae8620ae6cb833593879e3370d"
+      "bytes": 73669,
+      "sha256": "82248ca2bd21e3ad9c6fd78548d8069dd0f268050df03a4313277733d448056c"
     },
     {
       "path": "submission/SNAS_2026_FaithBench_short_paper_blind.pdf",
-      "bytes": 218520,
-      "sha256": "c0fa8b4044696566c53e0b15b1ff77e6aa7fdf22a51d419aec78b84c7656fe5a"
+      "bytes": 220545,
+      "sha256": "8ea3951e07850ad6c9db81a381cea62bdf8e2dd53d091061c3eb72e729a4166d"
     },
     {
       "path": "tests/test_faithbench_specs.py",
