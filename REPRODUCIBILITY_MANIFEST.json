@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-07-22T18:30:41.234129+00:00",
+  "created_utc": "2026-07-22T18:41:01.289176+00:00",
   "paper_title": "ConstructionSafety-FaithBench: Auditing Visual-Evidence Faithfulness in Construction-Safety Vision-Language Models",
   "public_repo_url": "https://github.com/kamrul28890/snas-2026-construction-safety-faithbench",
   "file_count": 131,
@@ -257,7 +257,7 @@
     {
       "path": "experiments/make_paper_figures.py",
       "bytes": 12319,
-      "sha256": "f3fc92add0a5238509c2c151fc138546b9925c66b3fd668aa29aa73b9778b48a"
+      "sha256": "045b7fd179fb1041eefe7ba3037aebc4027857fdfd8442dcabe2d0ca927ff087"
     },
     {
       "path": "experiments/run_florence_grounding_outputs.py",
@@ -337,17 +337,17 @@
     {
       "path": "paper/snas/figures/audit_result_dashboard.pdf",
       "bytes": 34812,
-      "sha256": "87ef17a42bc6644819659dcd7a2f1b69c4adfc421c74f5e1400784f7f5aa3214"
+      "sha256": "45668a8c7fab8bac2d5794fb8fca312eab6fbc9f0699f52971c69bf762d42d23"
     },
     {
       "path": "paper/snas/figures/intervention_effects_chart.pdf",
       "bytes": 36602,
-      "sha256": "e837f00c196f2b82180e3bad2637b5b46e1e6f8c3ff8be14db720ca665756fb3"
+      "sha256": "3dd18baf6b02d6c59575e86e4fa107f226616baad67131947f3f8ebfb24ef760"
     },
     {
       "path": "paper/snas/figures/pipeline_architecture.pdf",
-      "bytes": 55271,
-      "sha256": "283908340e0a6164d145e41e9a02ea68764ecb349139e2434b659e0450e36c9d"
+      "bytes": 55211,
+      "sha256": "18ea4286c553c9b19d74fa1088c0a2850dee6cfa784c96b5ca5c384724b3d584"
     },
     {
       "path": "paper/snas/README.md",
@@ -361,8 +361,8 @@
     },
     {
       "path": "paper/snas/SNAS_2026_FaithBench_short_paper.tex",
-      "bytes": 18404,
-      "sha256": "36bfd5016c6cdb2ac43a50f74efae2c664deac02ffd93ca7755aa643904cfa6d"
+      "bytes": 18408,
+      "sha256": "0e291f0f54a877c8e98196d950992a5c96eb0cab7648a0336d7bf2af7f597261"
     },
     {
       "path": "paper/snas/SUBMISSION_RISKS_AND_FIXES.md",
@@ -646,13 +646,13 @@
     },
     {
       "path": "submission/SNAS_2026_FaithBench_abstract_blind.pdf",
-      "bytes": 74125,
-      "sha256": "88a38d705a72f43346563f57c71d4aab79983cd232214085250454fbb571aa89"
+      "bytes": 74124,
+      "sha256": "eadb0eb84ae223fce3908161b54b5e6fba6dc2317b09e385af6dce4fff9d9ae9"
     },
     {
       "path": "submission/SNAS_2026_FaithBench_short_paper_blind.pdf",
-      "bytes": 235959,
-      "sha256": "a34daf7a1e7d5238e4f36465946114a249f11a3367b92d05326f6fc24983488d"
+      "bytes": 235917,
+      "sha256": "4e22327eff8ed6f138ab27077b31b0ca3e623f9890b986bc7a6184b27fcd7426"
     },
     {
       "path": "tests/test_faithbench_specs.py",
