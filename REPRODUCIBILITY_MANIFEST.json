@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-07-22T18:09:10.285238+00:00",
+  "created_utc": "2026-07-22T18:17:18.314137+00:00",
   "paper_title": "ConstructionSafety-FaithBench: Auditing Visual-Evidence Faithfulness in Construction-Safety Vision-Language Models",
   "public_repo_url": "https://github.com/kamrul28890/snas-2026-construction-safety-faithbench",
   "file_count": 131,
@@ -356,13 +356,13 @@
     },
     {
       "path": "paper/snas/SNAS_2026_FaithBench_abstract_blind.tex",
-      "bytes": 2321,
-      "sha256": "2ef880ccd03b7f366a45b29ab26cfc82350036ef40335bc1a17e5af9e62e2824"
+      "bytes": 2352,
+      "sha256": "940bc9b35a08155db9cacec5292a3f633b4bc911c75e7d9ba98691f19e9f31d3"
     },
     {
       "path": "paper/snas/SNAS_2026_FaithBench_short_paper.tex",
-      "bytes": 17908,
-      "sha256": "fd83aac91911090f9f387812a938e1c247cb3403f3b9445d37e92bb0fd018a06"
+      "bytes": 18404,
+      "sha256": "36bfd5016c6cdb2ac43a50f74efae2c664deac02ffd93ca7755aa643904cfa6d"
     },
     {
       "path": "paper/snas/SUBMISSION_RISKS_AND_FIXES.md",
@@ -371,8 +371,8 @@
     },
     {
       "path": "paper/snas/SUBMISSION_TEXTS.md",
-      "bytes": 3675,
-      "sha256": "e8844e33a6775b30f7c622684497a937ac583481772d9195eceb0ccc2e37e8d1"
+      "bytes": 3737,
+      "sha256": "0829f749fcd96a8ba1e481674113fd94b8698a707a9cf019edcb09f5e1ffa98d"
     },
     {
       "path": "README.md",
@@ -646,13 +646,13 @@
     },
     {
       "path": "submission/SNAS_2026_FaithBench_abstract_blind.pdf",
-      "bytes": 73669,
-      "sha256": "82248ca2bd21e3ad9c6fd78548d8069dd0f268050df03a4313277733d448056c"
+      "bytes": 74125,
+      "sha256": "4c20412dd7cc13b94fa23bdf312e4432200905f1a96165ff383325e6f2ba642f"
     },
     {
       "path": "submission/SNAS_2026_FaithBench_short_paper_blind.pdf",
-      "bytes": 220545,
-      "sha256": "8ea3951e07850ad6c9db81a381cea62bdf8e2dd53d091061c3eb72e729a4166d"
+      "bytes": 221567,
+      "sha256": "e274a9bb21e9d00a3b275275db7793c018ef0fc952efa7ce7249497b13128592"
     },
     {
       "path": "tests/test_faithbench_specs.py",
